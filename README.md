@@ -81,4 +81,5 @@ Hackintosh on Gigabyte H410M H V2 output to 2 port VGA + HDMI iGPU UHD630
                             <string>onboard-1</string>
                         </dict>
                     </dict>
+              </dict>
 ```
